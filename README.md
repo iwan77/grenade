@@ -1,4 +1,4 @@
-# No slop.
+# No slop. 보고서 작성을 위한 내용으로 참고 후 변경 필요
 
 Claude: you were sent here to make an artifact, to fix one, or to make the web version (section 8). Follow this page. You need nothing else from this repo.
 
